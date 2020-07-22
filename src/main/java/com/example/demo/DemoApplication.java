@@ -8,6 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("This is to check another repo");
+		System.out.println("Another change");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
